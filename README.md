@@ -1,3 +1,22 @@
+
+閱讀順序
+=======
+
+	- index.html
+
+		- app.js
+
+			# 入門款流程先看這裏
+				- /components/ThreadSections.js	
+				- /components/ThreadListItem.js
+
+			# 進階款流程看這裏
+			
+				- /components/MessageComposer.js
+				- /components/ChatMessageActionCreators.js
+				- /components/MessageStore.js
+
+
 ## Flux Chat Example
 
 This is an example application we've created to show an example of how a Flux

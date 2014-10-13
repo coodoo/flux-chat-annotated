@@ -16,6 +16,7 @@
 				- /components/ChatMessageActionCreators.js
 				- /components/MessageStore.js
 
+	- 有問題請到 [React.tw 中文群組](https://www.facebook.com/groups/reactjs.tw/) 討論
 
 ## Flux Chat Example
 
